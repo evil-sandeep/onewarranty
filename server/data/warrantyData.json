@@ -1,0 +1,142 @@
+[
+  {
+    "regNo": "HP123456",
+    "brand": "HP",
+    "model": "Pavilion X360",
+    "purchaseDate": "2023-03-01",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "HP987654",
+    "brand": "HP",
+    "model": "Spectre x360",
+    "purchaseDate": "2022-12-15",
+    "warrantyPeriodMonths": 24
+  },
+  {
+    "regNo": "SM123456",
+    "brand": "Samsung",
+    "model": "LED TV 43\"",
+    "purchaseDate": "2023-01-28",
+    "warrantyPeriodMonths": 99
+  },
+  {
+    "regNo": "SM987654",
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "purchaseDate": "2023-06-10",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "DELL1234",
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "purchaseDate": "2022-10-05",
+    "warrantyPeriodMonths": 24
+  },
+  {
+    "regNo": "LEN1234",
+    "brand": "Lenovo",
+    "model": "IdeaPad Slim 3",
+    "purchaseDate": "2023-02-18",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "APP1234",
+    "brand": "Apple",
+    "model": "MacBook Air M2",
+    "purchaseDate": "2023-05-01",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "APP5678",
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "purchaseDate": "2022-11-11",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "SONY123",
+    "brand": "Sony",
+    "model": "Bravia 55\"",
+    "purchaseDate": "2023-03-22",
+    "warrantyPeriodMonths": 24
+  },
+  {
+    "regNo": "SONY999",
+    "brand": "Sony",
+    "model": "PlayStation 5",
+    "purchaseDate": "2022-08-30",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "MI123456",
+    "brand": "Mi",
+    "model": "Redmi Note 12",
+    "purchaseDate": "2023-07-07",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "OP123456",
+    "brand": "OnePlus",
+    "model": "OnePlus 11R",
+    "purchaseDate": "2023-09-25",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "LG987654",
+    "brand": "LG",
+    "model": "Smart Refrigerator",
+    "purchaseDate": "2022-09-01",
+    "warrantyPeriodMonths": 36
+  },
+  {
+    "regNo": "REALM456",
+    "brand": "Realme",
+    "model": "Realme Narzo 50",
+    "purchaseDate": "2023-04-14",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "MSI1234",
+    "brand": "MSI",
+    "model": "GF63 Thin",
+    "purchaseDate": "2022-12-01",
+    "warrantyPeriodMonths": 24
+  },
+  {
+    "regNo": "BOAT123",
+    "brand": "boAt",
+    "model": "Airdopes 141",
+    "purchaseDate": "2023-06-06",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "NO123456",
+    "brand": "Nokia",
+    "model": "Nokia G21",
+    "purchaseDate": "2023-02-10",
+    "warrantyPeriodMonths": 12
+  },
+  {
+    "regNo": "ASUS789",
+    "brand": "ASUS",
+    "model": "ROG Strix G15",
+    "purchaseDate": "2023-01-01",
+    "warrantyPeriodMonths": 24
+  },
+  {
+    "regNo": "INT1234",
+    "brand": "Intel",
+    "model": "NUC Mini PC",
+    "purchaseDate": "2022-11-20",
+    "warrantyPeriodMonths": 36
+  },
+  {
+    "regNo": "CAN1234",
+    "brand": "Canon",
+    "model": "EOS 1500D",
+    "purchaseDate": "2023-05-17",
+    "warrantyPeriodMonths": 12
+  }
+]
