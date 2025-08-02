@@ -8,6 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+
 // Routes
 const warrantyRoutes = require('./routes/warrantyRoutes');
 // const warrantyRoutes = require('./routes/warranty');
