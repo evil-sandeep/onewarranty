@@ -15,6 +15,15 @@ const warrantyRoutes = require('./routes/warrantyRoutes');
 app.use('/api/warranty', warrantyRoutes);
 
 
+const path = require('path');
+
+// Serve frontend static files
+app.use(express.static(path.join(__dirname, '../client/build')));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../client/build/index.html'));
+});
+ 
 
 // MongoDB connection
 mongoose.connect(process.env.MONGO_URI)
