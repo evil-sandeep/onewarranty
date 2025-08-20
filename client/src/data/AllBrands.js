@@ -19,8 +19,8 @@ const allBrandsRaw = [
   'Shure', 'Sigma', 'Skullcandy', 'Skyworth', 'Snapmaker', 'Soundcore', 'SteelSeries', 'Steren',
   'TCL', 'Tenda', 'Thermaltake', 'Tosot', 'TPLink', 'Tronsmart', 'TurtleBeach', 'Ubiquiti',
   'Vizio', 'WD', 'Whirlpool', 'Xerox', 'Xgimi', 'Yamaha', 'Yuneec', 'Zagg',
-  'Zebronics', 'Zhiyun', 'Zoom', 'Zotac'
-  
+  'Zebronics', 'Zhiyun', 'Zoom', 'Zotac', 
+
 ];
 const allBrands = allBrandsRaw.map(brand => brand.trim());
 
