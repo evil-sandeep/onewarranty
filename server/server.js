@@ -18,10 +18,10 @@ app.use('/api/warranty', warrantyRoutes);
 const path = require('path');
 
 // Serve frontend static files
-app.use(express.static(path.join(__dirname, 'build')));
+app.use(express.static(path.join(__dirname, '../client/build')));
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
+  res.sendFile(path.join(__dirname, '../client/build/index.html'));
 });
  
 
