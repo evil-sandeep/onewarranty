@@ -27,7 +27,7 @@ function WelcomeScreen() {
     if (charIndex < fullMessage.length) {
       const timeout = setTimeout(() => {
         setCharIndex(prev => prev + 1);
-        playTypingSound();
+        // playTypingSound();
       }, typingSpeed);
       return () => clearTimeout(timeout);
     } else {

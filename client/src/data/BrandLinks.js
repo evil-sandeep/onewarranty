@@ -162,7 +162,7 @@ const brandLinks = {
     WD: 'https://www.westerndigital.com/support/warranty-policy',
     Whirlpool: 'https://www.whirlpool.com/services/warranty.html',
     Xerox: 'https://www.xerox.com/en-us/about/warranty',
-    Xgimi: 'https://www.xgimi.com/en/support/warranty',
+    Xgimi: 'https://xgimiprojector.in/warranty-registration',
     Yamaha: 'https://usa.yamaha.com/support/warranty/index.html',
     Yuneec: 'https://www.yuneec.com/en_US/support/warranty.html',
     Zagg: 'https://www.zagg.com/en_us/warranty-policies',
