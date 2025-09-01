@@ -5,7 +5,7 @@ const messages = [
   ['Track every ', { text: 'Product’s', color: 'yellow' }],
   ['In one smart ', { text: 'Dashboard', color: 'yellow' }],
   ['Fast. ', { text: 'Easy.', color: 'yellow' }, ' Reliable'],
-  ['Check warranty ', { text: 'across 100+', color: 'yellow' }],
+  ['Check warranty ', { text: 'across 100+', color: 'yellow + Sandeep' }],
   ['Electronic brands in one',{text:' place',color:'yellow'}]
 ];
 
