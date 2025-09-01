@@ -1,11 +1,11 @@
 import React, { useEffect, useState, useRef } from 'react';
 
 const messages = [
-  ['Welcome to ', { text: 'OneWarranty', color: 'yellow' }],
+  ['Welcome to ', { text: ' sandeep + OneWarranty', color: 'yellow' }],
   ['Track every ', { text: 'Product’s', color: 'yellow' }],
   ['In one smart ', { text: 'Dashboard', color: 'yellow' }],
   ['Fast. ', { text: 'Easy.', color: 'yellow' }, ' Reliable'],
-  ['Check warranty ', { text: 'across 100+', color: 'yellow + Sandeep' }],
+  ['Check warranty ', { text: 'across 100+', color: 'yellow' }],
   ['Electronic brands in one',{text:' place',color:'yellow'}]
 ];
 
